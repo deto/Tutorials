@@ -1,5 +1,5 @@
 # Tutorials
-Various Python Tutorials and Talks I have given
+Various Python Tutorials and Talks
 
 ### RNA-seq Seminar - [link](RNA-Seq%20Seminar/RNASeq.ipynb)
 - Berkeley Center for Computational Biology Workshop Series (June 2016)
