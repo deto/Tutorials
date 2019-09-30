@@ -12,10 +12,18 @@ Various Python Tutorials and Talks
 ### THW_Python_Plotting - [link](THW_Python_Plotting/Plotting%20in%20Python.ipynb)
 - Data visualization in Python - for Berkeley THW, April 2017
 
+### CDIPS Data Transformation and Visualization - [link](CDIPS%20Data%20Transformation%20and%20Visualization/Data%20Transformation%20and%20Visualization%20in%20Python.ipynb)
+- Data tidying and plotting in Python.  For the Summer 2017 CDIPS workshop
+
 ### THW_Bash - [link](THW_Bash/Part%201%20-%20Bash%20Basics.ipynb)
 - Introduction to BASH
 - For Berkeley THW, Jan 2018
 - In collaboration with Diya Das
 
-### CDIPS Data Transformation and Visualization - [link](CDIPS%20Data%20Transformation%20and%20Visualization/Data%20Transformation%20and%20Visualization%20in%20Python.ipynb)
-- Data tidying and plotting in Python.  For the Summer 2017 CDIPS workshop
+### Snakemake - [link](https://github.com/deto/Snakemake_Tutorial)
+- Snakemake for Bioinformatics Pipelines
+- Computational Biology Skills Seminar Series, April 2019
+
+### Amazon Web Services - [link](https://github.com/deto/AWS_Tutorial)
+- Leveraging AWS Computational Tasks
+- Computational Biology Skills Seminar Series, September 2019
